@@ -1,12 +1,18 @@
 {
     "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Wistful Haze",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "HyperVerseGD",
+    "verification": "https://www.youtube.com/watch?v=OGuft-Jr12I",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Asher Brothers Studios",
+            "link": "https://www.youtube.com/watch?v=v7zVjbE-aaE",
+            "percent": 100,
+            "hz": 12
+        }
     ]
 }
