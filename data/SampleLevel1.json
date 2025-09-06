@@ -2,17 +2,11 @@
     "id": 57436521,
     "name": "Wistful Haze",
     "author": "HyperVerseGD",
-    "creators": ["HyperVerseGD"]
+    "creators": ["HyperVerseGD"],
     "verifier": "HyperVerseGD",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://www.youtube.com/watch?v=OGuft-Jr12I",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "nobody",
-            "link": "nothing",
-            "percent": 0 ,
-            "hz": 0
-        }
     ]
 }
