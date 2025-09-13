@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {,
+        {
             "user": "ILikeToDashALot",
             "link": "https://www.youtube.com/watch?v=f0I1IR_TMG0",
             "percent": 100,
@@ -16,8 +16,3 @@
         }
     ]
 }
-
- "user": "HyperVerseGD",
-            "link": "",
-            "percent": 100,
-            "hz": 60
