@@ -9,18 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "AsherBrosGD",
-            "link": "",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "HyperVerseGD",
             "link": "https://youtu.be/byuHC9tNFJs",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
-            ]
+    ]
 }
-
-
