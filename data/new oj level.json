@@ -9,11 +9,22 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "none",
+            "user": "HyperVerseGD",
             "link": "",
-            "percent": 0,
-            "hz": 360
-        }
-            ]
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
 }
-
+            "user": "Vlesma",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
