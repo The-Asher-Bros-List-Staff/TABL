@@ -1,22 +1,22 @@
 [
     {
-        "role": "owner",
+        "role": "Owner",
         "name": "AsherBrosGD",
         "link": "https://www.youtube.com/@TheAsherBros/featured"
     },
     {
-        "role": "owner",
+        "role": "Owner",
         "name": "AsherBrosGDDiscord",
         "link": "https://discord.gg/aTF5UX3GSJ"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
+        "role": "Moderator",
+        "name": "Vlesma",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "role": "HyperVerseGD",
+        "name": "Moderator",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
