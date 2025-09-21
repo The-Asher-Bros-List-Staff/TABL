@@ -10,9 +10,17 @@
     "records": [
         {
             "user": "ILikeToDashALot",
-            "link": "https://www.youtube.com/watch?v=f0I1IR_TMG0",
+            "link": "https://www.youtube.com/video/f0I1IR_TMG0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HyperVerseGD",
+            "link": "",
             "percent": 100,
             "hz": 60
         }
     ]
 }
+
+
