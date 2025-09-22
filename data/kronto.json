@@ -1,1 +1,19 @@
+{
+    "id": 126267796,
+    "name": "Krontosis",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "HyperVerseGD",
+    "verification": "https://www.youtube.com/watch?v=9HA1zNVf3c8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        }
+            ]
+}
 
