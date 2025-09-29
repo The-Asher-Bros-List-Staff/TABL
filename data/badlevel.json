@@ -1,1 +1,22 @@
+{
+    "id": 120109373,
+    "name": "REVELATION",
+    "author": "ILikeToDashALot",
+    "creators": ["ILikeToDashALot"],
+    "verifier": "ILikeToDashALot",
+    "verification": "https://youtu.be/8V7yVRBdtFk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+
+
+
 
