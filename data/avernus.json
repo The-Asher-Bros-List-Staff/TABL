@@ -7,9 +7,15 @@
     "verification": "https://youtu.be/Esvizi2i4nI",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records":  [
         {
             "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HyperVerseGD",
             "link": "",
             "percent": 100,
             "hz": 60
