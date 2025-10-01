@@ -1,1 +1,27 @@
+{
+    "id":126543573,
+    "name": "to think of an onion",
+    "author": "ILikeToDashALot",
+    "creators": ["ILikeToDashALot"],
+    "verifier": "ILikeToDashALot",
+    "verification": "https://www.youtube.com/watch?v=_4veeD0o5_U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records":  [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HyperVerseGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+
+
 
