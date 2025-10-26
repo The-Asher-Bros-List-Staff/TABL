@@ -1,1 +1,19 @@
+{
+    "id": 127413051,
+    "name": "the onion philosophy",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "HyperVerseGD",
+    "verification": "https://www.youtube.com/watch?v=YPUX7MClvdA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
 
