@@ -1,0 +1,19 @@
+{
+    "id": 133376455,
+    "name": "Zonk n friends",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "HyperVerseGD",
+    "verification": "https://www.youtube.com/watch?v=TtL57sSn4so",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
+
