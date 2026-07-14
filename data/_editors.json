@@ -5,9 +5,9 @@
         "link": "https://www.youtube.com/@TheAsherBros/featured"
     },
     {
-        "role": "Owner",
-        "name": "AsherBrosGDDiscord",
-        "link": "https://discord.gg/aTF5UX3GSJ"
+        "role": "Moderator",
+        "name": "AikyGD",
+        "link": "https://www.youtube.com/@AIKYGD"
     },
     {
         "role": "Moderator",
@@ -17,11 +17,16 @@
     {
         "role": "Moderator",
         "name": "HyperVerseGD",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@TheAsherBros/featured"
     },
     {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "Moderator",
+        "name": "AshGD",
+        "link": "https://www.youtube.com/@ashgd1"
+    },
+    {
+        "role": "Moderator",
+        "name": "AshGD",
+        "link": "https://www.youtube.com/@ashgd1"
     }
 ]
