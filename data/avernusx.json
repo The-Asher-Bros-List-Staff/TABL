@@ -1,15 +1,21 @@
 {
     "id": 126541154,
     "name": "aevernusX",
-    "author": "HyperVerseGD",
+    "author": "AsherBrosGD",
     "creators": ["AsherBrosGD, ILikeToDashALot"],
     "verifier": "AsherBrosGD",
     "verification": "https://youtu.be/0WSPrcRhvxc",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records":  [
-        {
+                {
             "user": "HyperVerseGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AshGD",
             "link": "",
             "percent": 100,
             "hz": 60
