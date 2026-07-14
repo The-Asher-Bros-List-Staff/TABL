@@ -19,9 +19,13 @@
             "link": "",
             "percent": 100,
             "hz": 720
-        }
-    ]
-}
-
+        },
+         {
+            "user": "AsherBrosGD",
+            "link": "100",
+            "percent": 100,
+            "hz": 60
+         },
+          {
 
 
