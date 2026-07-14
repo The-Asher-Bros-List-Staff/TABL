@@ -1,0 +1,27 @@
+{
+    "id": 144861943,
+    "name": "Asher circles spam",
+    "author": "Aixy",
+    "creators": ["Aixy"],
+    "verifier": "Aixy",
+    "verification": "https://www.youtube.com/watch?v=LTY_-eZXGlY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records":  [
+        {
+            "user": "AsherBrosGD",
+            "link": "100",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Resolution",
+            "link": "",
+            "percent": 100,
+            "hz": 720
+        }
+    ]
+}
+
+
+
