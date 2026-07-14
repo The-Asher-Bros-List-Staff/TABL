@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=MSdtutu4nqI",
             "percent": 100,
             "hz": 80
+        },
+        {
+            "user": "Resolution",
+            "link": "",
+            "percent": 100,
+            "hz": 720
         }
             ]
 }
