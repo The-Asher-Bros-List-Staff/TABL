@@ -1,1 +1,27 @@
+{
+    "id": 126282966,
+    "name": "ASHERSPAM",
+    "author": "AikyGD",
+    "creators": ["AikyGD"],
+    "verifier": "AikyGD",
+    "verification": "https://www.youtube.com/watch?v=C4298H8sgHI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HyperVerseGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
+
+
 
