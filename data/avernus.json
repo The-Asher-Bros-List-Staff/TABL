@@ -10,7 +10,7 @@
     "records":  [
         {
             "user": "AsherBrosGD",
-            "link": "",
+            "link": "https://youtu.be/JQbNWtss0g4",
             "percent": 100,
             "hz": 60
         },
@@ -19,8 +19,21 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "AshGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "AikyZ",
+            "link": "https://www.youtube.com/watch?v=oZpjUL9A1HY",
+            "percent": 100,
+            "hz": 80
         }
     ]
 }
+
 
 
