@@ -13,7 +13,14 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Resolution",
+            "link": "",
+            "percent": 100,
+            "hz": 720
         }
-            ]
+    ]
 }
+
 
