@@ -31,6 +31,12 @@
             "link": "file:///C:/Users/AsherBrosYT/Downloads/MedalTVGeometryDash20260714192553603-trim-1784046429099.mp4file:///C:/Users/AsherBrosYT/Downloads/MedalTVGeometryDash20260714192553603-trim-1784046429099.mp4",
             "percent": 100,
             "hz": 960
+        },
+        {
+            "user": "Resolution",
+            "link": "",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
