@@ -11,8 +11,8 @@
         {
             "user": "AsherBrosGD",
             "link": "",
-            "percent": 0,
-            "hz": 360
+            "percent": 100,
+            "hz": 60
         }
             ]
 }
