@@ -1,1 +1,18 @@
-
+{
+    "id": 125567491,
+    "name": "Ben Maybe Clear",
+    "author": "ILikeToDashALot",
+    "creators": ["ILikeToDashALot"],
+    "verifier": "ILikeToDashALot",
+    "verification": "https://www.youtube.com/watch?v=maJu5m4yYyc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
