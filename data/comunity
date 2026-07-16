@@ -1,0 +1,18 @@
+{
+    "id": idk,
+    "name": "Community",
+    "author": "ILikeToDashALot",
+    "creators": ["ILikeToDashALot"],
+    "verifier": "ILikeToDashALot",
+    "verification": "https://www.youtube.com/watch?v=YI678MKiJVs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 0,
+            "hz": 360
+        }
+            ]
+}
