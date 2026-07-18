@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=RmERADIsu0M",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Aiky",
+            "link": "",
+            "percent": 100,
+            "hz": 240
         }
-            ]
+    ]
 }
