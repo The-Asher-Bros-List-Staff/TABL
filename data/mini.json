@@ -8,18 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
+      {
             "user": "AsherBrosGD",
             "link": "",
             "percent": 100,
             "hz": 60
-        }
-            ]
-}"user": "HyperVerseGD",
-            "link": "https://youtu.be/vFKLDN2ddWY",
+        },
+        {
+            "user": "HyperVerseGD",
+            "link": "https://www.youtube.com/watch?v=vFKLDN2ddWY",
             "percent": 100,
             "hz": 60
         }
     ]
 }
-
