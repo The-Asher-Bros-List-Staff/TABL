@@ -19,6 +19,12 @@
             "link": "",
             "percent": 100,
             "hz": 720
+        },
+        {
+            "user": "EchoDashYT",
+            "link": "https://www.youtube.com/watch?v=mFCAN7D27gQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
