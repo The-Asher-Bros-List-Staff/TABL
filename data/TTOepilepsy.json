@@ -1,1 +1,18 @@
-
+{
+    "id": 125686796,
+    "name": "An Epileptic Onion",
+    "author": "AsherBrosGD",
+    "creators": ["AsherBrosGD"],
+    "verifier": "AsherBrosGD",
+    "verification": "https://www.youtube.com/shorts/LVrGDqRlnEg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HyperVerseGD",
+            "link": "https://www.youtube.com/shorts/LVrGDqRlnEg",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
