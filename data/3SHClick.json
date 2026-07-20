@@ -1,1 +1,18 @@
-
+{
+    "id": 145012222,
+    "name": "3 Seconds Of Click",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "HyperVerseGD",
+    "verification": "https://www.youtube.com/shorts/fqkX3M4LIXw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "none",
+            "link": "",
+            "percent": 0,
+            "hz": 60
+        }
+            ]
+}
