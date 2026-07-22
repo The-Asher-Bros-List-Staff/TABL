@@ -1,1 +1,24 @@
-
+{
+    "id": 145426161,
+    "name": "HaxPax",
+    "author": "Vlesma",
+    "creators": ["Vlesma"],
+    "verifier": "Vlesma",
+    "verification": "https://youtu.be/chqVI-K9xVA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "AsherBrosGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "HyperVerseGD",
+            "link": "https://youtu.be/chqVI-K9xVA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
