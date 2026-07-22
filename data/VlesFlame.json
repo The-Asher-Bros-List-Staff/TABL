@@ -1,1 +1,18 @@
-
+{
+    "id": 145427907,
+    "name": "VlesFlame Man",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "Vlesma",
+    "verification": "https://youtube.com/shorts/5Op4JnimdiU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HyperVerseGD",
+            "link": "https://youtube.com/shorts/5Op4JnimdiU",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
