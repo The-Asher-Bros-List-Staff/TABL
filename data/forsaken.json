@@ -31,6 +31,12 @@
             "link": "",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Windows2003Srvr",
+            "link": "https://docs.google.com/videos/d/1TZCOIH4_8_ipnzgVLPyNygmBy8qqxjXmVv7DDg0KcuU/edit?usp=drive_link",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
