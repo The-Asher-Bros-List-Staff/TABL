@@ -1,1 +1,18 @@
-
+{
+    "id": 145462988,
+    "name": "2p0VlesNoWannaKnow",
+    "author": "HyperVerseGD",
+    "creators": ["HyperVerseGD"],
+    "verifier": "Vlesma",
+    "verification": "https://youtube.com/shorts/vZ1UrsRXbUA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HyperVerseGD",
+            "link": "https://youtube.com/shorts/vZ1UrsRXbUA",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
