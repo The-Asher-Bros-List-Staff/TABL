@@ -1,1 +1,18 @@
-
+{
+    "id": 145612742,
+    "name": "Reso Challenge",
+    "author": "Aiky",
+    "creators": ["Aiky"],
+    "verifier": "Aiky",
+    "verification": "https://www.youtube.com/watch?v=SulXl1Qwdao",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "HyperVerseGD",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+            ]
+}
